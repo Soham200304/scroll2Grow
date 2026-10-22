@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788107915995",
+    "project_id": "scrool2grow",
+    "storage_bucket": "scrool2grow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788107915995:android:4b61c22d11ba0e01dc52fe",
+        "android_client_info": {
+          "package_name": "com.example.scrool2grow"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtZG8gXFnBqXD7g5nL9jESAUD1R6v-x7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
